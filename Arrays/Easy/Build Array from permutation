@@ -1,0 +1,14 @@
+https://leetcode.com/problems/build-array-from-permutation/description/
+
+class Solution {
+    public int[] buildArray(int[] nums) {
+        int n = nums.length;
+        int[] ans = new int[n];
+        for(int i=0; i<n; i++){
+            ans[i] = nums[nums[i]];
+            //Input = [0,2,1,5,3,4]
+            //ans[1] = nums[nums[1]] => nums[2] => ans[i] = nums[2] => ans[i] = 1
+        }
+        return ans;
+    }
+}
