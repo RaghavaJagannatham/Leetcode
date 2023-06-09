@@ -1,0 +1,16 @@
+1389. Create Target Array in the Given Order
+
+https://leetcode.com/problems/create-target-array-in-the-given-order/description/
+
+class Solution {
+    public int[] createTargetArray(int[] nums, int[] index) {
+        int[] solution = new int[nums.length];
+        for(int i=0; i<index.length; i++){
+            for(int j=index.length-1; j>index.length-1; i--){
+                solution[j] = solution[j-1];
+            } 
+            solution[index[i]] = nums[i];
+        }
+        return solution;
+    }
+}
