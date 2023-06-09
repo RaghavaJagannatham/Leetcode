@@ -2,6 +2,7 @@
 Practicing Leetcode
 
 Arrays/Easy
+* 1431 Kids With the Greatest Number of Candies
 * 1672 Richest Customer Wealth
 * 1389 Create Target Array in the Given Order
 * 1720 Decode XORed Array
