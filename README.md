@@ -2,6 +2,7 @@
 Practicing Leetcode
 
 Arrays/Easy
+* 1732 Find the Highest Altitude
 * 1773 Count Items Matching a Rule
 * 1832 Check if the Sentence Is Pangram
 * 1365 How Many Numbers Are Smaller Than the Current Number
