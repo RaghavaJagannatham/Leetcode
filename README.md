@@ -2,6 +2,7 @@
 Practicing Leetcode
 
 Arrays/Easy
+* 832 Flipping an Image
 * 1732 Find the Highest Altitude
 * 1773 Count Items Matching a Rule
 * 1832 Check if the Sentence Is Pangram
