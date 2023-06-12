@@ -2,7 +2,7 @@
 Practicing Leetcode
 
 Arrays/Easy
-* 1252. Cells with Odd Values in a Matrix
+* 1252 Cells with Odd Values in a Matrix
 * 832 Flipping an Image
 * 1732 Find the Highest Altitude
 * 1773 Count Items Matching a Rule
