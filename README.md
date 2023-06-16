@@ -2,6 +2,7 @@
 Practicing Leetcode
 
 Arrays/Easy
+* 1295 Find Numbers with Even Number of Digits
 * 1252 Cells with Odd Values in a Matrix
 * 832 Flipping an Image
 * 1732 Find the Highest Altitude
