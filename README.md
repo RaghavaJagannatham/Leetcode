@@ -2,6 +2,7 @@
 Practicing Leetcode
 
 Arrays/Easy
+* 989 Add to Array-Form of Integer
 * 867 Transpose Matrix
 * 1295 Find Numbers with Even Number of Digits
 * 1252 Cells with Odd Values in a Matrix
